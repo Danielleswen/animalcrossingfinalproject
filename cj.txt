@@ -1,0 +1,5 @@
+1,fsh,What do you call a fish with no eyes?,
+2,jellyfish,What does a shark eat with peanut butter?,
+3,swordfish,What's a pirate's favorite fish?,
+4,goldfish,What do you call a rich fish?,
+5,angelfish,What fish do you find in Heaven?,

@@ -1,0 +1,8 @@
+1,Cosmos,40,
+2,Hyacinths,50,
+3,Lilies,50,
+4,Mums,40,
+5,Pansies,40,
+6,Roses,50,
+7,Tulips,40,
+8,Windflowers,40,

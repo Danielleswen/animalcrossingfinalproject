@@ -1,0 +1,6 @@
+1,Coral,50,
+2,Conch,70,
+3,Cowrie,6,
+4,Giant Clam,90,
+5,Sand Dollar,12,
+6,Snail Shell,18,
