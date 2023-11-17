@@ -1,5 +1,6 @@
-# animalcrossingfinalproject
+# Animal Crossing Final Project
 CSCI 1300 final C++ game project
+
 How to compile and run:
     Compile: g++ -std=c++17  Items.cpp Tools.cpp Stats.cpp Areas.cpp Map.cpp Menu.cpp Animal.cpp animalDriver.cpp
     Run: ./a.out
